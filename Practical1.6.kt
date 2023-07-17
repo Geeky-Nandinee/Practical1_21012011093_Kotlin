@@ -1,4 +1,4 @@
-
+fun add(FN:Int, )
 
 fun main(){
     print("Enter The 1st Number")
